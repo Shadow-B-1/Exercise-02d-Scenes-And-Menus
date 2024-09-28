@@ -1,23 +1,24 @@
-# Exercise-02d-Scenes-And-Menus
+# Project2D
 
-Exercise for MSCH-C220
+Project for MSCH-C220
 
-A basic space-shooter arcade game, created in Unity.
+A basic shooting arcade game, with background and music.
 
 ## Implementation
 
 Created using [Unity 2022.3.17f1](https://unity.com/download)
 
-Assets are provided by [Kenney.nl](https://kenney.nl/assets/space-shooter-extension), provided under a [CC0 1.0 Public Domain License](https://creativecommons.org/publicdomain/zero/1.0/).
+Assets are provided Unity and online pictures. The music is a free assest from Unity that I got, and the background image is an image on google.
 
-The explosion spritesheet was released into the public domain by [StumpyStrust](https://opengameart.org/content/explosion-sheet).
+I added music, background image, particles, 3 enemies and I have a start and end game menu.
+
 
 
 ## References
 None
 
 ## Future Development
-Advanced features?
+Bigger ship?
 
 ## Created by
 Bie Chai
